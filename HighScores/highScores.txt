@@ -1,0 +1,5 @@
+Peter 10.198
+Peter 15.013
+David 15.632
+Peter 15.8
+What 16.032
