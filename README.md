@@ -10,4 +10,4 @@ In this application I created custom 3D graphics in 3ds Max and custom textures 
 ![Alt text](/readme-images/main.jpg?raw=true)
 ![Alt text](/readme-images/couch.jpg?raw=true)
 ![Alt text](/readme-images/racing.jpg?raw=true)
-![Alt text](/readme-images/raving2.jpg?raw=true)
+![Alt text](/readme-images/racing2.jpg?raw=true)
